@@ -1,0 +1,36 @@
+md _awave
+
+copy anmlbskt.zip _awave
+copy anmlbskta.zip _awave
+copy basschal.zip _awave
+copy basschalo.zip _awave
+copy blokpong.zip _awave
+copy claychal.zip _awave
+copy demofist.zip _awave
+copy dirtypig.zip _awave
+copy dolphin.zip _awave
+copy fotns.zip _awave
+copy ftspeed.zip _awave
+copy ggisuka.zip _awave
+copy ggx15.zip _awave
+copy kofnw.zip _awave
+copy kofnwj.zip _awave
+copy kofxi.zip _awave
+copy kov7sprt.zip _awave
+copy maxspeed.zip _awave
+copy mslug6.zip _awave
+copy ngbc.zip _awave
+copy ngbcj.zip _awave
+copy rangrmsn.zip _awave
+copy rumblef.zip _awave
+copy rumblefp.zip _awave
+copy rumblef2.zip _awave
+copy rumblf2p.zip _awave
+copy salmankt.zip _awave
+copy samsptk.zip _awave
+copy sprtshot.zip _awave
+copy sushibar.zip _awave
+copy vfurlong.zip _awave
+copy xtrmhunt.zip _awave
+copy xtrmhnt2.zip _awave
+copy waidrive.zip _awave
