@@ -15,6 +15,8 @@ Quickly extract Mame roms for use in other emulators. Basically those are bat fi
 - **Model 2 Emulator** - Sega - Model 2
 - **SuperModel** - Sega - Model 3
 
+* **Emulator** - Publisher - Board
+
 Credits
 -------
 - Original idea - DOS76
